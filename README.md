@@ -16,7 +16,7 @@
   <img align="center" alt="kelton-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="kelton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="Kelton-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/1023318751615139940/1031907764735316049">
+  <img align="right" alt="Kelton-pic" height="150" style="border-radius:12px;" src="https://github.com/Kelton-wlysses/Kelton-wlysses/blob/main/Assets/ReadyPlayerMe-Avatar.jpeg">
 </div>
   
   ##
