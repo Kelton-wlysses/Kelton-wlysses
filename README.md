@@ -28,7 +28,6 @@
   <a href="https://my-site-bice.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Kelton-wlysses/Kelton-wlysses/blob/output/github-contribution-grid-snake.svg)
-
  
 
 </div>
